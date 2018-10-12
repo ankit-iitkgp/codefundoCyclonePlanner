@@ -21,8 +21,8 @@ There is source of moist area derived from tropical oceans with sea surface temp
 Low wind shear allowing the storm clouds to rise vertically to high levels and coriolis force causing depression.
 	By, taking these development and their distance from location, we can form the present case. Also taking the following into consideration-
 
-<img src="images/brazil.png"> 
-<img src="images/India.png>
+<img src="brazil.png"> 
+<img src="India.png>
 
 These are the average precipitation of Brazil and India( both are due to monsoon). It can be noticed both are exactly opposite to each other and these are no coincidence. So, taking south american early month’s monsoon reports will also help us setting the present opinion for our location.
 
